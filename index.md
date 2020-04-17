@@ -19,4 +19,4 @@ layout: default
 <br>
 
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-$$\frac{1}{2}+1$$
+$$\frac{1}{2}+1-\frac{1}{4}$$
