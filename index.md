@@ -18,7 +18,4 @@ layout: default
 
 <br>
 
-{% include 05-emphasis.md %}
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-
-$$\frac{1}{2}$$
+a^2+2=1/2
